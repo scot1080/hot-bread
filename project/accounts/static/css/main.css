@@ -1,0 +1,11 @@
+#title-ctr{
+    display:flex;
+    flex-direction:column;
+    background-color:lightblue;
+}
+#title {
+    font-size:100px;
+}
+#title-sub {
+    font-size:50px
+}
